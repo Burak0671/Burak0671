@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Burak0671 aka SBN.
+- 👋 Hi, I’m Şaban Burak Nazlım aka SBN.
 - 👀 I’m interested in technology, science and games generally.
 - 🌱 I’m currently learning unity and c# to make the next big hit game with the power of mobile platforms.
 - 📫 Reach me at buraknazlim0671@gmail.com
